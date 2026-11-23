@@ -2,20 +2,20 @@
 
 An end-to-end cloud analytics and data engineering platform built to simulate the multi-state operational and financial data challenges faced by Dental Boutique. This serverless, idempotent pipeline ingests messy operational, billing, and payment collection data into Google Cloud, models it for business intelligence, and enforces strict automated testing to guarantee financial reconciliation and prevent report leakage.
 
-**Live BI Dashboard Link:** [Insert Your Looker Studio Public View Link Here]
+**Live BI Dashboard Link:** [(https://datastudio.google.com/s/tf1qJ4EBEkY)]
 
 ---
 
 ## 📸 The Platform in Action
 
 ### 1. Modern Analytics Executive Dashboard (Looker Studio)
-![BI Dashboard Screenshot]([Insert Your Looker Studio Dashboard Screenshot Path or URL here])
+![BI Dashboard Screenshot]([screenshots/dashboard.png])
 
 ### 2. Directed Acyclic Graph (Dataform Workflow DAG)
-![Dataform DAG Graph]([Insert Your Dataform DAG Screenshot Path or URL here])
+![Dataform DAG Graph]([screenshots/compiled-graph.png])
 
 ### 3. Serverless Execution Running on Schedule
-![Cloud Run Job Log]([Insert Your Cloud Run Execution Screenshot Path or URL here])
+![Cloud Run Job Log]([screenshots/dental-ingest-job.png])
 
 ---
 
