@@ -1,0 +1,6 @@
+gcp-key.json
+venv/
+.dlt/secrets.toml
+data/raw/
+__pycache__/
+*.pyc
